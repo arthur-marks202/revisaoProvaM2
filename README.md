@@ -149,8 +149,8 @@ E) Todas as afirmativas estão corretas.<br>
 ### QUESTÃO 10 – Estrutura e Semântica do HTML
 A criação de páginas web bem estruturadas e acessíveis depende do uso adequado dos elementos HTML, especialmente aqueles introduzidos no HTML5, que trouxeram mais significado semântico ao conteúdo exibido.
 
-I. O uso de <article>, <section> e <nav> melhora a semântica e a acessibilidade das páginas.<br>
-II. A tag <div> é apropriada para estruturar conteúdo quando não há uma alternativa semântica adequada.<br>
+I. O uso de ```<article>, <section> e <nav>``` melhora a semântica e a acessibilidade das páginas.<br>
+II. A tag ```<div>``` é apropriada para estruturar conteúdo quando não há uma alternativa semântica adequada.<br>
 III. A marcação correta de cabeçalhos hierárquicos ajuda na navegação de leitores de tela.<br>
 IV. Elementos semânticos são ignorados por mecanismos de busca e servem apenas para estilização visual.<br>
 
